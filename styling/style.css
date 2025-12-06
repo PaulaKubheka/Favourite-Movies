@@ -1,0 +1,19 @@
+body{
+    background-color:white
+}
+#Cruella{
+    background-color: pink;
+    border:2px solid black;
+    margin-bottom: 10px;
+
+}
+#Danger{
+    background-color:gray;
+    border:2px solid black;
+    margin-bottom: 10px;
+}
+#Joker{
+    background-color: pink;
+    border:2px solid black;
+    margin-bottom: 10px;
+}
